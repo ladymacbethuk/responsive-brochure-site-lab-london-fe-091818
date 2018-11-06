@@ -87,6 +87,7 @@ section {
   padding:3em;
   margin:6px;
   color:#000000;
+  font-weight: bolder;
   }
   
 .cake2 {
@@ -101,8 +102,7 @@ section {
   width:300px;
   padding:3em;
   margin:6px;
-  color:#FF1493;
-  font-weight: bolder;
+  color:#000000;
   }
   
 .cake3 {
